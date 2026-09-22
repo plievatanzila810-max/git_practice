@@ -1,6 +1,7 @@
 lalalala
-<<<<<<< HEAD
+HEAD
 ветка main
-=======
+
 ветка conflict
->>>>>>> conflict
+conflict
+так так так
